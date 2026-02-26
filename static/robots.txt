@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://global66.com/sitemap.xml
